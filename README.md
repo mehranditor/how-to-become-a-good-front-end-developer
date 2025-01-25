@@ -3,7 +3,7 @@
 ---
 
 ## This is a path that I recently started to become a front-end developer
-
+   
 ---
 
 - **Learn the Basics**  
