@@ -12,7 +12,7 @@
   *JavaScript*: Understand core concepts like DOM manipulation, ES6+ features, and event handling.
 
 ---
-
+ 
 - **Master Front-End Frameworks and Libraries**  
   Learn CSS preprocessors like SASS or LESS. Get comfortable with frameworks like React, Vue.js, or Angular. Start with one before exploring others. Use UI libraries like Bootstrap or Tailwind CSS to speed up development.
 
