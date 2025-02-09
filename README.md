@@ -25,7 +25,7 @@
 
 - **Version Control and Tools**  
   Learn Git and GitHub for version control. Familiarize yourself with package managers like npm or yarn.
-
+ 
 ---
 
 - **Gain Knowledge of Build Tools**  
