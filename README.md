@@ -21,7 +21,7 @@
 - **Work on Responsive and Accessible Design**  
   Learn how to design for different screen sizes using responsive techniques. Understand web accessibility (WCAG standards) to ensure your site works for all users.
 
---- 
+---  
 
 - **Version Control and Tools**  
   Learn Git and GitHub for version control. Familiarize yourself with package managers like npm or yarn.
