@@ -1,4 +1,4 @@
-# How to Become a Good Front-End Developer
+.# How to Become a Good Front-End Developer
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---  
 
-- **Version Control and Tools**  
+- **Version Control and Tools**   
   Learn Git and GitHub for version control. Familiarize yourself with package managers like npm or yarn.
  
 ---
