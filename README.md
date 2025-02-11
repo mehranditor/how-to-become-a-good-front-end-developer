@@ -16,7 +16,7 @@
 - **Master Front-End Frameworks and Libraries**  
   Learn CSS preprocessors like SASS or LESS. Get comfortable with frameworks like React, Vue.js, or Angular. Start with one before exploring others. Use UI libraries like Bootstrap or Tailwind CSS to speed up development.
  
----
+--- 
 
 - **Work on Responsive and Accessible Design**  
   Learn how to design for different screen sizes using responsive techniques. Understand web accessibility (WCAG standards) to ensure your site works for all users.
