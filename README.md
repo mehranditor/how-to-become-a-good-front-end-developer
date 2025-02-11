@@ -10,7 +10,7 @@
   *HTML*: Understand semantic HTML for better accessibility and SEO.  
   *CSS*: Learn styling, responsive design (using media queries), and layouts (e.g., Flexbox, Grid).  
   *JavaScript*: Understand core concepts like DOM manipulation, ES6+ features, and event handling.
-
+ 
 ---
  
 - **Master Front-End Frameworks and Libraries**  
